@@ -7,3 +7,6 @@
 3 - Na branch exercício_git deverá ser adicionado um arquivo nome.txt com o seu nome completo;
 
 4 - Disponibilizar o link do repositório no portal do aluno.
+
+
+dffdef
